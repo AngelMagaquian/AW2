@@ -1,0 +1,450 @@
+[
+    {
+        "nombre": "El Exorcista",
+        "duracion": 122,
+        "clasificacion": 4.5,
+        "genero": "Terror",
+        "estreno": 1973
+    },
+    {
+        "nombre": "Superbad",
+        "duracion": 113,
+        "clasificacion": 4.0,
+        "genero": "Comedia",
+        "estreno": 2007
+    },
+    {
+        "nombre": "Die Hard",
+        "duracion": 132,
+        "clasificacion": 4.7,
+        "genero": "Acción",
+        "estreno": 1988
+    },
+    {
+        "nombre": "El Conjuro",
+        "duracion": 112,
+        "clasificacion": 4.3,
+        "genero": "Terror",
+        "estreno": 2013
+    },
+    {
+        "nombre": "Forrest Gump",
+        "duracion": 142,
+        "clasificacion": 4.8,
+        "genero": "Comedia",
+        "estreno": 1994
+    },
+    {
+        "nombre": "Mad Max: Fury Road",
+        "duracion": 120,
+        "clasificacion": 4.6,
+        "genero": "Acción",
+        "estreno": 2015
+    },
+    {
+        "nombre": "El Resplandor",
+        "duracion": 144,
+        "clasificacion": 4.4,
+        "genero": "Terror",
+        "estreno": 1980
+    },
+    {
+        "nombre": "Borat",
+        "duracion": 98,
+        "clasificacion": 3.9,
+        "genero": "Comedia",
+        "estreno": 2006
+    },
+    {
+        "nombre": "John Wick",
+        "duracion": 101,
+        "clasificacion": 4.5,
+        "genero": "Acción",
+        "estreno": 2014
+    },
+    {
+        "nombre": "Actividad Paranormal",
+        "duracion": 86,
+        "clasificacion": 3.7,
+        "genero": "Terror",
+        "estreno": 2007
+    },
+    {
+        "nombre": "The Hangover",
+        "duracion": 100,
+        "clasificacion": 4.1,
+        "genero": "Comedia",
+        "estreno": 2009
+    },
+    {
+        "nombre": "Mission: Impossible",
+        "duracion": 147,
+        "clasificacion": 4.6,
+        "genero": "Acción",
+        "estreno": 1996
+    },
+    {
+        "nombre": "El Silencio de los Corderos",
+        "duracion": 118,
+        "clasificacion": 4.3,
+        "genero": "Terror",
+        "estreno": 1991
+    },
+    {
+        "nombre": "Anchorman",
+        "duracion": 94,
+        "clasificacion": 3.8,
+        "genero": "Comedia",
+        "estreno": 2004
+    },
+    {
+        "nombre": "Gladiator",
+        "duracion": 155,
+        "clasificacion": 4.7,
+        "genero": "Acción",
+        "estreno": 2000
+    },
+    {
+        "nombre": "El Orfanato",
+        "duracion": 105,
+        "clasificacion": 4.2,
+        "genero": "Terror",
+        "estreno": 2007
+    },
+    {
+        "nombre": "Super Troopers",
+        "duracion": 100,
+        "clasificacion": 3.9,
+        "genero": "Comedia",
+        "estreno": 2001
+    },
+    {
+        "nombre": "Inception",
+        "duracion": 148,
+        "clasificacion": 4.8,
+        "genero": "Acción",
+        "estreno": 2010
+    },
+    {
+        "nombre": "It",
+        "duracion": 135,
+        "clasificacion": 4.4,
+        "genero": "Terror",
+        "estreno": 2017
+    },
+    {
+        "nombre": "Napoleon Dynamite",
+        "duracion": 96,
+        "clasificacion": 3.6,
+        "genero": "Comedia",
+        "estreno": 2004
+    },
+    {
+        "nombre": "The Dark Knight",
+        "duracion": 152,
+        "clasificacion": 4.9,
+        "genero": "Acción",
+        "estreno": 2008
+    },
+    {
+        "nombre": "A Nightmare on Elm Street",
+        "duracion": 91,
+        "clasificacion": 4.1,
+        "genero": "Terror",
+        "estreno": 1984
+    },
+    {
+        "nombre": "Ferris Bueller's Day Off",
+        "duracion": 103,
+        "clasificacion": 4.0,
+        "genero": "Comedia",
+        "estreno": 1986
+    },
+    {
+        "nombre": "Die Hard 2",
+        "duracion": 124,
+        "clasificacion": 4.5,
+        "genero": "Acción",
+        "estreno": 1990
+    },
+    {
+        "nombre": "The Shining",
+        "duracion": 146,
+        "clasificacion": 4.3,
+        "genero": "Terror",
+        "estreno": 1980
+    },
+    {
+        "nombre": "Anchorman 2",
+        "duracion": 119,
+        "clasificacion": 3.7,
+        "genero": "Comedia",
+        "estreno": 2013
+    },
+    {
+        "nombre": "Taken",
+        "duracion": 93,
+        "clasificacion": 4.6,
+        "genero": "Acción",
+        "estreno": 2008
+    },
+    {
+        "nombre": "The Ring",
+        "duracion": 115,
+        "clasificacion": 4.0,
+        "genero": "Terror",
+        "estreno": 2002
+    },
+    {
+        "nombre": "Dumb and Dumber",
+        "duracion": 107,
+        "clasificacion": 3.8,
+        "genero": "Comedia",
+        "estreno": 1994
+    },
+    {
+        "nombre": "Mad Max: Beyond Thunderdome",
+        "duracion": 117,
+        "clasificacion": 4.2,
+        "genero": "Acción",
+        "estreno": 1985
+    },
+    {
+        "nombre": "The Grudge",
+        "duracion": 92,
+        "clasificacion": 3.5,
+        "genero": "Terror",
+        "estreno": 2004
+    },
+    {
+        "nombre": "The Princess Bride",
+        "duracion": 98,
+        "clasificacion": 4.6,
+        "genero": "Comedia",
+        "estreno": 1987
+    },
+    {
+        "nombre": "Lethal Weapon",
+        "duracion": 110,
+        "clasificacion": 4.0,
+        "genero": "Acción",
+        "estreno": 1987
+    },
+    {
+        "nombre": "The Babadook",
+        "duracion": 93,
+        "clasificacion": 4.1,
+        "genero": "Terror",
+        "estreno": 2014
+    },
+    {
+        "nombre": "Groundhog Day",
+        "duracion": 101,
+        "clasificacion": 3.9,
+        "genero": "Comedia",
+        "estreno": 1993
+    },
+    {
+        "nombre": "Speed",
+        "duracion": 116,
+        "clasificacion": 4.2,
+        "genero": "Acción",
+        "estreno": 1994
+    },
+    {
+        "nombre": "Scream",
+        "duracion": 111,
+        "clasificacion": 4.3,
+        "genero": "Terror",
+        "estreno": 1996
+    },
+    {
+        "nombre": "Shaun of the Dead",
+        "duracion": 99,
+        "clasificacion": 4.5,
+        "genero": "Comedia",
+        "estreno": 2004
+    },
+    {
+        "nombre": "Die Hard: With a Vengeance",
+        "duracion": 128,
+        "clasificacion": 4.4,
+        "genero": "Acción",
+        "estreno": 1995
+    },
+    {
+        "nombre": "Sinister",
+        "duracion": 110,
+        "clasificacion": 3.8,
+        "genero": "Terror",
+        "estreno": 2012
+    },
+    {
+        "nombre": "Zoolander",
+        "duracion": 89,
+        "clasificacion": 4.0,
+        "genero": "Comedia",
+        "estreno": 2001
+    },
+    {
+        "nombre": "Terminator 2: Judgment Day",
+        "duracion": 137,
+        "clasificacion": 4.7,
+        "genero": "Acción",
+        "estreno": 1991
+    },
+    {
+        "nombre": "The Sixth Sense",
+        "duracion": 107,
+        "clasificacion": 4.6,
+        "genero": "Terror",
+        "estreno": 1999
+    },
+    {
+        "nombre": "Ferris Bueller's Day Off",
+        "duracion": 103,
+        "clasificacion": 4.0,
+        "genero": "Comedia",
+        "estreno": 1986
+    },
+    {
+        "nombre": "Die Hard 2",
+        "duracion": 124,
+        "clasificacion": 4.5,
+        "genero": "Acción",
+        "estreno": 1990
+    },
+    {
+        "nombre": "The Silence of the Lambs",
+        "duracion": 118,
+        "clasificacion": 4.3,
+        "genero": "Terror",
+        "estreno": 1991
+    },
+    {
+        "nombre": "Anchorman 2",
+        "duracion": 119,
+        "clasificacion": 3.7,
+        "genero": "Comedia",
+        "estreno": 2013
+    },
+    {
+        "nombre": "Taken",
+        "duracion": 93,
+        "clasificacion": 4.6,
+        "genero": "Acción",
+        "estreno": 2008
+    },
+    {
+        "nombre": "The Ring",
+        "duracion": 115,
+        "clasificacion": 4.0,
+        "genero": "Terror",
+        "estreno": 2002
+    },
+    {
+        "nombre": "Dumb and Dumber",
+        "duracion": 107,
+        "clasificacion": 3.8,
+        "genero": "Comedia",
+        "estreno": 1994
+    },
+    {
+        "nombre": "Mad Max: Beyond Thunderdome",
+        "duracion": 117,
+        "clasificacion": 4.2,
+        "genero": "Acción",
+        "estreno": 1985
+    },
+    {
+        "nombre": "The Grudge",
+        "duracion": 92,
+        "clasificacion": 3.5,
+        "genero": "Terror",
+        "estreno": 2004
+    },
+    {
+        "nombre": "The Princess Bride",
+        "duracion": 98,
+        "clasificacion": 4.6,
+        "genero": "Comedia",
+        "estreno": 1987
+    },
+    {
+        "nombre": "Lethal Weapon",
+        "duracion": 110,
+        "clasificacion": 4.0,
+        "genero": "Acción",
+        "estreno": 1987
+    },
+    {
+        "nombre": "The Babadook",
+        "duracion": 93,
+        "clasificacion": 4.1,
+        "genero": "Terror",
+        "estreno": 2014
+    },
+    {
+        "nombre": "Groundhog Day",
+        "duracion": 101,
+        "clasificacion": 3.9,
+        "genero": "Comedia",
+        "estreno": 1993
+    },
+    {
+        "nombre": "Speed",
+        "duracion": 116,
+        "clasificacion": 4.2,
+        "genero": "Acción",
+        "estreno": 1994
+    },
+    {
+        "nombre": "Scream",
+        "duracion": 111,
+        "clasificacion": 4.3,
+        "genero": "Terror",
+        "estreno": 1996
+    },
+    {
+        "nombre": "Shaun of the Dead",
+        "duracion": 99,
+        "clasificacion": 4.5,
+        "genero": "Comedia",
+        "estreno": 2004
+    },
+    {
+        "nombre": "Die Hard: With a Vengeance",
+        "duracion": 128,
+        "clasificacion": 4.4,
+        "genero": "Acción",
+        "estreno": 1995
+    },
+    {
+        "nombre": "Sinister",
+        "duracion": 110,
+        "clasificacion": 3.8,
+        "genero": "Terror",
+        "estreno": 2012
+    },
+    {
+        "nombre": "Zoolander",
+        "duracion": 89,
+        "clasificacion": 4.0,
+        "genero": "Comedia",
+        "estreno": 2001
+    },
+    {
+        "nombre": "Terminator 2: Judgment Day",
+        "duracion": 137,
+        "clasificacion": 4.7,
+        "genero": "Acción",
+        "estreno": 1991
+    },
+    {
+        "nombre": "The Sixth Sense",
+        "duracion": 107,
+        "clasificacion": 4.6,
+        "genero": "Terror",
+        "estreno": 1999
+    }
+]
