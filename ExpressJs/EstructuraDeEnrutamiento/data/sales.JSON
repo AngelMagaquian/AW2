@@ -1,0 +1,142 @@
+[
+    {
+      "id_sale": 1,
+      "id_item": 1,
+      "total": 800,
+      "date": "2023-10-10",
+      "seller": 101
+    },
+    {
+      "id_sale": 2,
+      "id_item": 3,
+      "total": 700,
+      "date": "2023-10-11",
+      "seller": 102
+    },
+    {
+      "id_sale": 3,
+      "id_item": 5,
+      "total": 1200,
+      "date": "2023-10-12",
+      "seller": 103
+    },
+    {
+      "id_sale": 4,
+      "id_item": 2,
+      "total": 1000,
+      "date": "2023-10-13",
+      "seller": 104
+    },
+    {
+      "id_sale": 5,
+      "id_item": 7,
+      "total": 200,
+      "date": "2023-10-14",
+      "seller": 105
+    },
+    {
+      "id_sale": 6,
+      "id_item": 9,
+      "total": 350,
+      "date": "2023-10-15",
+      "seller": 106
+    },
+    {
+      "id_sale": 7,
+      "id_item": 4,
+      "total": 1000,
+      "date": "2023-10-16",
+      "seller": 107
+    },
+    {
+      "id_sale": 8,
+      "id_item": 8,
+      "total": 400,
+      "date": "2023-10-17",
+      "seller": 108
+    },
+    {
+      "id_sale": 9,
+      "id_item": 6,
+      "total": 350,
+      "date": "2023-10-18",
+      "seller": 109
+    },
+    {
+      "id_sale": 10,
+      "id_item": 10,
+      "total": 200,
+      "date": "2023-10-19",
+      "seller": 110
+    },
+    {
+      "id_sale": 11,
+      "id_item": 2,
+      "total": 880,
+      "date": "2023-10-20",
+      "seller": 101
+    },
+    {
+      "id_sale": 12,
+      "id_item": 1,
+      "total": 780,
+      "date": "2023-10-21",
+      "seller": 102
+    },
+    {
+      "id_sale": 13,
+      "id_item": 3,
+      "total": 460,
+      "date": "2023-10-22",
+      "seller": 103
+    },
+    {
+      "id_sale": 14,
+      "id_item": 5,
+      "total": 1190,
+      "date": "2023-10-23",
+      "seller": 104
+    },
+    {
+      "id_sale": 15,
+      "id_item": 6,
+      "total": 360,
+      "date": "2023-10-24",
+      "seller": 105
+    },
+    {
+      "id_sale": 16,
+      "id_item": 7,
+      "total": 205,
+      "date": "2023-10-25",
+      "seller": 106
+    },
+    {
+      "id_sale": 17,
+      "id_item": 4,
+      "total": 1010,
+      "date": "2023-10-26",
+      "seller": 107
+    },
+    {
+      "id_sale": 18,
+      "id_item": 8,
+      "total": 410,
+      "date": "2023-10-27",
+      "seller": 108
+    },
+    {
+      "id_sale": 19,
+      "id_item": 9,
+      "total": 360,
+      "date": "2023-10-28",
+      "seller": 109
+    },
+    {
+      "id_sale": 20,
+      "id_item": 10,
+      "total": 210,
+      "date": "2023-10-29",
+      "seller": 110
+    }
+  ]

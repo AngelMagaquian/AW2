@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop Acer Aspire 5",
+      "desc": "Laptop de 15.6 pulgadas con procesador Intel Core i5 y 8 GB de RAM.",
+      "purchase_price": 600,
+      "selling_price": 800,
+      "category": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Laptop HP Omen",
+      "desc": "Laptop de 15.6 pulgadas con procesador Intel Core i7 y 8 GB de RAM.",
+      "purchase_price": 790,
+      "selling_price": 1000,
+      "category": "Laptop"
+    },
+    {
+      "id": 3,
+      "name": "Ipad 9a 10.2",
+      "desc": "Tablet Apple de 10.2 pulgadas y  64 GB de memoria con 3 GB de RAM.",
+      "purchase_price": 400,
+      "selling_price": 700,
+      "category": "Tablets"
+    },
+    {
+      "id": 4,
+      "name": "Tableta Microsoft Surface Pro 7",
+      "desc": "Tableta con procesador Intel Core i7 y teclado desmontable.",
+      "purchase_price": 800,
+      "selling_price": 1000,
+      "category": "Tablets"
+    },
+    {
+      "id": 5,
+      "name": "Cámara DSLR Canon EOS 80D",
+      "desc": "Cámara réflex digital con sensor APS-C de 24.2 MP y pantalla táctil.",
+      "purchase_price": 900,
+      "selling_price": 1200,
+      "category": "Cámaras Digitales"
+    },
+    {
+      "id": 6,
+      "name": "Auriculares Inalámbricos Bose QuietComfort 35 II",
+      "desc": "Auriculares con cancelación de ruido y hasta 20 horas de autonomía.",
+      "purchase_price": 250,
+      "selling_price": 350,
+      "category": "Auriculares"
+    },
+    {
+      "id": 7,
+      "name": "Router Inalámbrico ASUS RT-AX86U",
+      "desc": "Router Wi-Fi 6 con 4 antenas y soporte para juegos en línea.",
+      "purchase_price": 150,
+      "selling_price": 200,
+      "category": "Redes y Conectividad"
+    },
+    {
+      "id": 8,
+      "name": "Impresora HP LaserJet Pro MFP M227fdw",
+      "desc": "Impresora láser multifunción con capacidad de impresión dúplex.",
+      "purchase_price": 300,
+      "selling_price": 400,
+      "category": "Impresoras"
+    },
+    {
+      "id": 9,
+      "name": "Monitor Dell Ultrasharp U2719D",
+      "desc": "Monitor de 27 pulgadas con resolución QHD y bordes delgados.",
+      "purchase_price": 250,
+      "selling_price": 350,
+      "category": "Monitores"
+    },
+    {
+      "id": 10,
+      "name": "Teclado Mecánico Corsair K95 RGB Platinum",
+      "desc": "Teclado gaming con interruptores Cherry MX y retroiluminación RGB.",
+      "purchase_price": 150,
+      "selling_price": 200,
+      "category": "Teclados"
+    }
+  ]
