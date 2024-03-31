@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "author": "johndoe",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "likes": 0
+  },
+  {
+    "id": 2,
+    "author": "bobsmith",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "likes": 5
+  },
+  {
+    "id": 3,
+    "author": "alicejohn",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "likes": 8
+  },
+  {
+    "id": 4,
+    "author": "johndoe",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "likes": 0
+  }
+]
