@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Angel",
+    "lastName": "Magaquian",
+    "email": "Angelmagakhian@gmail.com",
+    "phone": "03804633698",
+    "socialMedia": "https://angel.com"
+  },
+  {
+    "name": "asd",
+    "lastName": "123",
+    "email": "angelmagakhian@gmail.com",
+    "phone": "123123",
+    "socialMedia": "http://angel.com"
+  },
+  {
+    "name": "asd",
+    "lastName": "123",
+    "email": "angelmagakhian@gmail.com",
+    "phone": "123123",
+    "socialMedia": "http://angel.com"
+  },
+  {
+    "name": "aaa",
+    "lastName": "AAA",
+    "phone": "123",
+    "socialMedia": "asddd",
+    "idUser": 111
+  }
+]
